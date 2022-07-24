@@ -1,0 +1,17 @@
+D:\LapTrinhWindows\Dental Bill\Dental Bill\bin\Debug\net6.0-windows\Dental Bill.exe
+D:\LapTrinhWindows\Dental Bill\Dental Bill\bin\Debug\net6.0-windows\Dental Bill.deps.json
+D:\LapTrinhWindows\Dental Bill\Dental Bill\bin\Debug\net6.0-windows\Dental Bill.runtimeconfig.json
+D:\LapTrinhWindows\Dental Bill\Dental Bill\bin\Debug\net6.0-windows\Dental Bill.dll
+D:\LapTrinhWindows\Dental Bill\Dental Bill\bin\Debug\net6.0-windows\Dental Bill.pdb
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental_Bill.Form1.resources
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.csproj.GenerateResource.cache
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.AssemblyInfoInputs.cache
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.AssemblyInfo.cs
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.dll
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\refint\Dental Bill.dll
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.pdb
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\Dental Bill.genruntimeconfig.cache
+D:\LapTrinhWindows\Dental Bill\Dental Bill\obj\Debug\net6.0-windows\ref\Dental Bill.dll
